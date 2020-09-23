@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "scss": "sass --watch ./scss:./css"
+    "scss": "sass --watch ./Bootstrap-Carousel/scss: ./Bootstrap-Carousel/css"
   },
   "keywords": [],
   "author": "",
